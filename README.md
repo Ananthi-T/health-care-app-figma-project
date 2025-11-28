@@ -32,24 +32,26 @@ The app focuses on simplifying healthcare management, including:
 
 | Page | Preview |
 |------|---------|
-| Page 1 | ![Page 1](screens/page1.png) |
-| Page 2 | ![Page 2](screens/page2.png) |
-| Page 3 | ![Page 3](screens/page3.png) |
-| Page 4 | ![Page 4](screens/page4.png) |
-| Page 5 | ![Page 5](screens/page5.png) |
-| Page 6 | ![Page 6](screens/page6.png) |
-| Page 7 | ![Page 7](screens/page7.png) |
-| Page 8 | ![Page 8](screens/page8.png) |
-| Page 9 | ![Page 9](screens/page9.png) |
-| Page 10 | ![Page 10](screens/page10.png) |
-| Page 11 | ![Page 11](screens/page11.png) |
-| Page 12 | ![Page 12](screens/page12.png) |
-| Page 13 | ![Page 13](screens/page13.png) |
-| Page 14 | ![Page 14](screens/page14.png) |
-| Page 15 | ![Page 15](screens/page15.png) |
-| Page 16 | ![Page 16](screens/page16.png) |
-| Page 17 | ![Page 17](screens/page17.png) |
-| Page 18 | ![Page 18](screens/page18.png) |
+| Page 1 | ![Page 1](screens/page1.png?raw=true) |
+| Page 2 | ![Page 2](screens/page2.png?raw=true) |
+| Page 3 | ![Page 3](screens/page3.png?raw=true) |
+| Page 4 | ![Page 4](screens/page4.png?raw=true) |
+| Page 5 | ![Page 5](screens/page5.png?raw=true) |
+| Page 6 | ![Page 6](screens/page6.png?raw=true) |
+| Page 7 | ![Page 7](screens/page7.png?raw=true) |
+| Page 8 | ![Page 8](screens/page8.png?raw=true) |
+| Page 9 | ![Page 9](screens/page9.png?raw=true) |
+| Page 10 | ![Page 10](screens/page10.png?raw=true) |
+| Page 11 | ![Page 11](screens/page11.png?raw=true) |
+| Page 12 | ![Page 12](screens/page12.png?raw=true) |
+| Page 13 | ![Page 13](screens/page13.png?raw=true) |
+| Page 14 | ![Page 14](screens/page14.png?raw=true) |
+| Page 15 | ![Page 15](screens/page15.png?raw=true) |
+| Page 16 | ![Page 16](screens/page16.png?raw=true) |
+| Page 17 | ![Page 17](screens/page17.png?raw=true) |
+| Page 18 | ![Page 18](screens/page18.png?raw=true) |
+
+> **Tip:** `?raw=true` ensures GitHub renders the image correctly in README.
 
 ---
 
@@ -79,27 +81,11 @@ The app focuses on simplifying healthcare management, including:
 │ README.md
 │ figma.fig
 │
-├── /screens/
-│   page1.png
-│   page2.png
-│   page3.png
-│   page4.png
-│   page5.png
-│   page6.png
-│   page7.png
-│   page8.png
-│   page9.png
-│   page10.png
-│   page11.png
-│   page12.png
-│   page13.png
-│   page14.png
-│   page15.png
-│   page16.png
-│   page17.png
-│   page18.png
-│
-└── /assets/  (optional)
+└── screens/
+    page1.png
+    page2.png
+    ...
+    page18.png
 ```
 
 ---
@@ -115,5 +101,6 @@ Please give credit if reused.
 ## ⭐ Support
 
 If you like this UI/UX design, consider ⭐ starring the repository!
+
 
 
