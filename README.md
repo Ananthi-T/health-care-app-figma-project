@@ -8,68 +8,54 @@ https://www.figma.com/design/JoAUgwZQw47UZDHATIe3Ii/figma?node-id=0-1&t=A7Sdwgmp
 ![Mobile](https://img.shields.io/badge/Platform-Mobile-lightgrey)
 
 ---
-
-## 🔗 Figma Source File
-Download or open the original Figma design:  
-[figma.fig](figma.fig)
-
----
-
 ## 📘 Project Overview
 
-This repository contains a modern **Healthcare Mobile Application UI/UX design** created in **Figma**.  
-The app focuses on simplifying healthcare management, including:
+This repository contains a modern **Healthcare Mobile Application UI/UX design** created entirely in **Figma**.  
 
-- Medical records  
-- Appointment booking  
-- Doctor profiles  
-- Lab results  
-- Prescription management  
+The app is designed to simplify healthcare management for patients and doctors. Key functionalities include:
+
+- Managing **medical records** efficiently  
+- **Booking appointments** with doctors  
+- Viewing **doctor profiles** and availability  
+- Accessing **lab results** quickly  
+- Managing **prescriptions** and medication reminders  
 
 ---
 
-## 📸 Screenshots / UI Preview
+## 📝 About the App
 
-| Page | Preview |
-|------|---------|
-| Page 1 | ![Page 1](screens/page1.png?raw=true) |
-| Page 2 | ![Page 2](screens/page2.png?raw=true) |
-| Page 3 | ![Page 3](screens/page3.png?raw=true) |
-| Page 4 | ![Page 4](screens/page4.png?raw=true) |
-| Page 5 | ![Page 5](screens/page5.png?raw=true) |
-| Page 6 | ![Page 6](screens/page6.png?raw=true) |
-| Page 7 | ![Page 7](screens/page7.png?raw=true) |
-| Page 8 | ![Page 8](screens/page8.png?raw=true) |
-| Page 9 | ![Page 9](screens/page9.png?raw=true) |
-| Page 10 | ![Page 10](screens/page10.png?raw=true) |
-| Page 11 | ![Page 11](screens/page11.png?raw=true) |
-| Page 12 | ![Page 12](screens/page12.png?raw=true) |
-| Page 13 | ![Page 13](screens/page13.png?raw=true) |
-| Page 14 | ![Page 14](screens/page14.png?raw=true) |
-| Page 15 | ![Page 15](screens/page15.png?raw=true) |
-| Page 16 | ![Page 16](screens/page16.png?raw=true) |
-| Page 17 | ![Page 17](screens/page17.png?raw=true) |
-| Page 18 | ![Page 18](screens/page18.png?raw=true) |
+### **Problem Statement**  
+Managing healthcare services efficiently is often challenging for patients and medical professionals. Users face difficulties in:  
 
-> **Tip:** `?raw=true` ensures GitHub renders the image correctly in README.
+- Keeping track of medical records and lab results  
+- Booking or rescheduling doctor appointments  
+- Accessing clear and organized doctor information  
+- Managing prescriptions and medication reminders  
 
+This project aims to **simplify healthcare management** through a modern, intuitive mobile application design.
+
+### **Goals**  
+- Provide a **user-friendly interface** for patients to access healthcare services quickly.  
+- Ensure **easy navigation** across medical records, appointments, lab results, and prescriptions.  
+- Create **clear visual hierarchy** and consistent design patterns for better usability.  
+- Showcase a **complete UI/UX design portfolio project** that demonstrates design skills and Figma proficiency.
 ---
 
 ## ✨ Features
 
-- 🩺 Medical Records Dashboard  
-- 📅 Book, reschedule, or cancel appointments  
-- 👨‍⚕️ Doctor profiles with specialization & availability  
-- 🧪 Lab test results with clear visuals  
-- 💊 Prescription management  
-- 🔔 Notifications for updates and reminders  
-- 🎨 Clean, intuitive UI design  
+- 🩺 **Medical Records Dashboard**  
+- 📅 **Appointment Management** (book, reschedule, cancel)  
+- 👨‍⚕️ **Doctor Profiles** with specialization & availability  
+- 🧪 **Lab Test Results** with clear visual indicators  
+- 💊 **Prescription Management**  
+- 🔔 **Notifications** for updates and reminders  
+- 🎨 **Clean, user-friendly UI** and consistent design  
 
 ---
 
 ## 🧰 Tools Used
 
-- **Figma** – Components, Auto-layout, Prototyping  
+- **Figma** – UI components, auto-layout, prototyping  
 - Export formats: PNG, JPG, `.fig` source file  
 
 ---
@@ -80,12 +66,10 @@ The app focuses on simplifying healthcare management, including:
 / (root)
 │ README.md
 │ figma.fig
-│
-└── screens/
-    page1.png
-    page2.png
-    ...
-    page18.png
+│ page1.png
+│ page2.png
+│ ...
+│ page18.png
 ```
 
 ---
@@ -101,6 +85,7 @@ Please give credit if reused.
 ## ⭐ Support
 
 If you like this UI/UX design, consider ⭐ starring the repository!
+
 
 
 
